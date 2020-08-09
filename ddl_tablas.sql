@@ -2,7 +2,7 @@
 -- autor : Arturo
 -- fecha : 09/08 
 -- version : v0.5
-
+-- cambios en rama desarrollo
 create table clientes (
 nombre varchar2(30),
 apellidos varchar2(30)
@@ -10,3 +10,4 @@ apellidos varchar2(30)
 tablespace tmp;
 
 commit;
+
