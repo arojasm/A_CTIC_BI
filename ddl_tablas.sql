@@ -10,4 +10,5 @@ apellidos varchar2(30)
 tablespace tmp;
 
 commit;
+exit;
 
